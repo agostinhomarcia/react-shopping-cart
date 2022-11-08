@@ -1,9 +1,9 @@
 <p align="center">
-   <img src="https://media.giphy.com/media/n7rEuTBpsYQWcjrBX8/giphy.gif" alt="task" width="250"/>
+   <img src="https://media.giphy.com/media/uZ7wLTpoMbtikW2wUY/giphy.gif" alt="cart" width="280"/>
 </p>
 
 <p align="right">
-   <img src="https://media.giphy.com/media/Y08DJ9Rc3KPGFImy0U/giphy.gif" alt="task" width="150"/>
+   <img src="https://media.giphy.com/media/3sZZuaEm2o7arjuiV3/giphy.gif" alt="cart" width="130"/>
 </p>
 
 
@@ -12,19 +12,19 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/projeto-lista-de-tarefas?color=00FF00">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/react-shopping-cart?color=479aa3">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/projeto-lista-de-tarefas?color=00FF00">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/react-shopping-cart?color=479aa3">
 
  
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/projeto-lista-de-tarefas?color=00FF00">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/react-shopping-cart?color=479aa3">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/projeto-lista-de-tarefas?color=00FF00" /> 
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/react-shopping-cart?color=479aa3" /> 
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/projeto-lista-de-tarefas?color=00FF00" /> 
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/react-shopping-cart?color=479aa3" /> 
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/projeto-lista-de-tarefas?color=00FF00" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/react-shopping-cart?color=479aa3" /> 
 </p>
 
 
@@ -36,7 +36,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://app-task-five.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="#" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
@@ -44,7 +44,7 @@
 ## :dart: About ##
 
 
-<h4 align="center"> To-do List </h4>
+<h4 align="center"> Cart Shopping </h4>
 
 <p align="center">
    <img src="#" alt="task" width="650"/>
@@ -76,9 +76,9 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/projeto-lista-de-tarefas.git
+$ git clone https://github.com/agostinhomarcia/react-shopping-cart.git
 # Access
-$ cd quiz-react
+$ cd shopping-cart
 # Install dependencies
 $ yarn or npm 
 # Run the project
@@ -98,7 +98,7 @@ Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
 
 <p align="center">
-   <img src="https://media.giphy.com/media/HUb53XcHzBkcebqDm6/giphy.gif" alt="task" width="250"/>
+   <img src="https://media.giphy.com/media/ekY2WkQVcAsaAQpDnu/giphy.gif" alt="cart" width="250"/>
 </p>
 
 &#xa0;
