@@ -62,7 +62,8 @@
 The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+- [TypeScript](https://www.w3schools.com/typescript/) 
+- [Styled-components](https://styled-components.com/docs/) 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 
