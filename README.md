@@ -47,7 +47,7 @@
 <h4 align="center"> Cart Shopping </h4>
 
 <p align="center">
-   <img src="#" alt="task" width="650"/>
+   <img src="#" alt="cart" width="650"/>
 </p>
 
 
@@ -62,7 +62,7 @@
 The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+- [TypeScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 
