@@ -22,7 +22,7 @@ export const Wrapper = styled.div`
     }
 
     img{
-        max-width: 100px;
+        max-width: 120px;
         object-fit: cover;
         margin-left: 40px;
 

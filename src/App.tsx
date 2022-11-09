@@ -10,6 +10,8 @@ import { Button, Container, StyledButton } from "./App.styles";
 import { Grid, LinearProgress, Drawer, Badge } from "@mui/material";
 import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
 import Header from "./Header";
+// import { toast } from "react-toastify";
+
 
 // types
 
@@ -35,8 +37,6 @@ const App = () => {
     "products",
     getProducts
   );
-  console.log(data);
-
   
   const [expand, setExpand] = useState(false);
   const dataDisplay = expand ? data : data?.slice(0, 5) ;
@@ -52,12 +52,12 @@ const App = () => {
         return prev.map((item) =>
           item.id === clickedItem.id
             ? { ...item, amount: item.amount + 1 }
-            : item
-        );
-      }
-      return [...prev, { ...clickedItem, amount: 1 }];
+            : item 
+              );
+        }
+        return [...prev, { ...clickedItem, amount: 1 }];
     });
-  };
+      }; 
 
   const handleRemoveFromCart = (id: number) => {
     setCartItems((prev) =>
@@ -71,6 +71,9 @@ const App = () => {
       }, [] as CartItemType[])
     );
   };
+
+
+
 
   if (isLoading) return <LinearProgress sx={{
                   backgroundColor: '#bee1e5',
@@ -92,6 +95,7 @@ const App = () => {
             cartItems={cartItems}
             addToCart={handleAddToCart}
             removeFromCart={handleRemoveFromCart}
+            
           />
         </Drawer>
       </Header>
@@ -103,7 +107,7 @@ const App = () => {
         backgroundColor: "#479aa3"
       }
     }} >
-          <AddShoppingCartIcon />
+        <AddShoppingCartIcon />
         </Badge>
       </StyledButton>
       <Container>

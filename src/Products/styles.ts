@@ -23,7 +23,7 @@ export const Wrapper = styled.div`
     }
     .span-uni{
         color: #20B2AA;
-        font-size:15px;
+        font-size:12px;
     }
     }
 

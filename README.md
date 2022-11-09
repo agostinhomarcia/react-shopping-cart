@@ -18,7 +18,7 @@
 
  
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/react-shopping-cart?color=479aa3">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/react-shopping-cart?color=56BEB8">
 
    <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/react-shopping-cart?color=479aa3" /> 
 
@@ -78,7 +78,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ git clone https://github.com/agostinhomarcia/react-shopping-cart.git
 # Access
-$ cd shopping-cart
+$ cd react-shopping-cart
 # Install dependencies
 $ yarn or npm 
 # Run the project
@@ -90,7 +90,7 @@ $ yarn start or npm start
 ## :memo: License ##
 
 
-This project is under the [MIT license](./LICENSE).
+This project is under the [MIT license](./License).
 
 Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 

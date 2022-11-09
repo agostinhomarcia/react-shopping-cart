@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from '@mui/material';
-// import { BsFillTrashFill  } from "react-icons/bs";
+// import { BsFillTrashFill,   } from "react-icons/bs";
 
 //types
 import { CartItemType } from '../App'
@@ -15,10 +15,19 @@ type Props = {
     item: CartItemType;
     addToCart: (clickedItem: CartItemType) => void;
     removeFromCart: (id: number) => void;
+    
+    
 
 }
 
+
+
+
+
 const CartItem: React.FC<Props> = ({ item, addToCart, removeFromCart }) => (
+
+
+
     <Wrapper>
         <div>
             <h3>{item.title}</h3>
@@ -34,9 +43,9 @@ const CartItem: React.FC<Props> = ({ item, addToCart, removeFromCart }) => (
                     onClick={() => removeFromCart(item.id)} >
                     -
                 </Button>
+
                 <p>{item.amount}</p> 
-                
-                
+
                 
 
                 <Button
