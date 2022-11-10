@@ -16,7 +16,12 @@ export const Wrapper = styled.div`
         .container-price .span-price{
             font-size:15px;
         }
-        
+        .title-products{
+            font-size:17px;
+        }
+        .description-products{
+            font-size: 15px;
+        }
     }
 
     .stars{

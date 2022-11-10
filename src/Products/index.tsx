@@ -18,8 +18,8 @@ function Item ({item, handleAddToCart}: Props){
         
         
             <img src={item.image} alt={item.title}/>
-            <h3>{item.title}</h3>
-            <p>{item.description.slice(0, 100) }...</p>
+            <h3 className='title-products'>{item.title}</h3>
+            <p className='description-products'>  {item.description.slice(0, 60) }...</p>
             
 
             <div className='stars'>
