@@ -24,4 +24,7 @@ export const Wrapper = styled.aside`
         background-color: #a9d5d9;
     }
     
+    @media(max-width: 590px){
+        width: 250px
+    }
 `;
