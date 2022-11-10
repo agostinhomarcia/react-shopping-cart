@@ -34,5 +34,10 @@ export const Wrapper = styled.div`
         .information .info{
             font-size:12px;
         }
+        .information .buttons{
+            width: 60px;
+        }
+
     }
 `;
+
