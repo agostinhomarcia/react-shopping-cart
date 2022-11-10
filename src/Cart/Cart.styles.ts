@@ -12,7 +12,8 @@ export const Wrapper = styled.aside`
         background-color:#479aa3;
         border-radius:7px;
         font-weight: bold;
-        color:#000;
+        font-size:16px;
+        color:#fff;
         
 
     }
