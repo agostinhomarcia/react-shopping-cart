@@ -32,7 +32,7 @@ function Item ({item, handleAddToCart}: Props){
             
         <div className='container-price'>
             <span className='span-price'>R${item.price}</span>
-            <button className='btn-price' onClick={() => handleAddToCart(item)}>Add + </button>
+            <button  onClick={() => handleAddToCart(item)}>Add + </button>
         </div>
     </Wrapper>
     )}

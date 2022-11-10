@@ -12,13 +12,11 @@ export const Wrapper = styled.div`
     margin: 0 auto;
     height: 100%;
 
-    @media(max-width:590px){
+    @media(max-width:650px){
         .container-price .span-price{
             font-size:15px;
         }
-        .btn-price{
-            width: 60px;
-        }
+        
     }
 
     .stars{
@@ -78,6 +76,12 @@ export const Wrapper = styled.div`
         font-size: 24px;
     }
     
+    @media(max-width: 650px){
+        button{
+                width: 65px;
+                height: 20px
+        }
+    }
 
     }
 
