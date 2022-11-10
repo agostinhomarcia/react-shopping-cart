@@ -14,6 +14,7 @@ export const Wrapper = styled.aside`
         font-weight: bold;
         font-size:16px;
         color:#fff;
+        margin:8px;
         
 
     }
