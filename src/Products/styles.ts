@@ -12,6 +12,15 @@ export const Wrapper = styled.div`
     margin: 0 auto;
     height: 100%;
 
+    @media(max-width:590px){
+        .container-price .span-price{
+            font-size:15px;
+        }
+        .btn-price{
+            width: 60px;
+        }
+    }
+
     .stars{
         display:flex;
         justify-content:center;
