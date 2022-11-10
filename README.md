@@ -99,7 +99,7 @@ Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
 
 <p align="center">
-   <img src="https://media.giphy.com/media/ekY2WkQVcAsaAQpDnu/giphy.gif" alt="cart" width="250"/>
+   <img src="https://media.giphy.com/media/6BupX2xF6gwk6bCX1q/giphy.gif" alt="cart" width="250"/>
 </p>
 
 &#xa0;
