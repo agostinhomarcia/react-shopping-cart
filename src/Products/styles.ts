@@ -4,7 +4,7 @@ export const Wrapper = styled.div`
     display:flex;
     justify-content: center;
     flex-direction: column;
-    width:400px;
+    width:350px;
     max-width: 100%;
     margin-top:30px;
     border: 2px solid #F0F8FF;
@@ -13,6 +13,7 @@ export const Wrapper = styled.div`
     height: 100%;
 
     @media(max-width:650px){
+        width:400px;
         .container-price .span-price{
             font-size:15px;
         }
