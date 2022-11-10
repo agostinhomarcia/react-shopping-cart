@@ -7,13 +7,13 @@ export const Wrapper = styled.div`
     width:350px;
     max-width: 100%;
     margin-top:30px;
-    border: 2px solid #F0F8FF;
+    border: 2px solid #666;
     border-radius: 20px;
     margin: 0 auto;
     height: 100%;
 
     @media(max-width:650px){
-        
+        width:100%;
         .container-price .span-price{
             font-size:15px;
         }
