@@ -25,10 +25,8 @@ export const Wrapper = styled.aside`
     }
     
     @media(max-width: 590px){
-        width: 300px
+        width: 350px
     }
-    button{
-        width:60px;
-    }
+    
 
 `;

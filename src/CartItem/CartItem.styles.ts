@@ -27,5 +27,12 @@ export const Wrapper = styled.div`
         margin-left: 40px;
 
     }
-    
+    @media(max-width: 590px){
+        .information,  p{
+            font-size: 14px
+        }
+        .information .info{
+            font-size:12px;
+        }
+    }
 `;
