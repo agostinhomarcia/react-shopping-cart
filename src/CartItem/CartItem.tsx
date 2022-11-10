@@ -1,9 +1,10 @@
 import React from 'react'
 import { Button } from '@mui/material';
-// import { BsFillTrashFill,   } from "react-icons/bs";
+
 
 //types
 import { CartItemType } from '../App'
+
 
 // styles
 
@@ -32,13 +33,13 @@ const CartItem: React.FC<Props> = ({ item, addToCart, removeFromCart }) => (
                     size="small"
                     disableElevation
                     variant="contained"
-                    onClick={() => removeFromCart(item.id)} >
+                    onClick={() => removeFromCart(item.id)}  >
                     -
                 </Button>
 
                 <p>{item.amount}</p> 
 
-                <Button
+                <Button 
                     size="small"
                     disableElevation
                     variant="contained"
