@@ -4,10 +4,10 @@ export const Wrapper = styled.div`
     display:flex;
     justify-content: center;
     flex-direction: column;
-    width:370px;
+    width:400px;
     max-width: 100%;
     margin-top:30px;
-    border: 2px solid #f4f4f8;
+    border: 2px solid #F0F8FF;
     border-radius: 20px;
     margin: 0 auto;
     height: 100%;
