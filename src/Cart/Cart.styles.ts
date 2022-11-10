@@ -24,9 +24,13 @@ export const Wrapper = styled.aside`
         background-color: #a9d5d9;
     }
     
-    @media(max-width: 590px){
+    @media(max-width: 650px){
         width: 300px
     }
+    .info-cart{
+        font-size: 18px;
+    }
+    
     
 
 `;

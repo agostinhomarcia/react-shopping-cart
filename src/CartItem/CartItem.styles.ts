@@ -37,6 +37,9 @@ export const Wrapper = styled.div`
         .information .buttons{
             width: 60px;
         }
+        .title-cart{
+            font-size: 14px;
+        }
 
     }
 `;
