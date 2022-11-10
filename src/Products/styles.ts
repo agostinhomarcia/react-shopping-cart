@@ -14,6 +14,7 @@ export const Wrapper = styled.div`
 
     @media(max-width:650px){
         width:400px;
+        max-width: 90%;
         .container-price .span-price{
             font-size:15px;
         }
