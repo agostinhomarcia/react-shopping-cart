@@ -72,9 +72,6 @@ const App = () => {
     );
   };
 
-
-
-
   if (isLoading) return <LinearProgress sx={{
                   backgroundColor: '#bee1e5',
                   '& .MuiLinearProgress-bar': {

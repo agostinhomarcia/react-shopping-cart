@@ -10,8 +10,9 @@ export const Wrapper = styled.aside`
 
     button{
         background-color:#479aa3;
-        border-radius:5px;
+        border-radius:7px;
         font-weight: bold;
+        color:#000;
         
 
     }
