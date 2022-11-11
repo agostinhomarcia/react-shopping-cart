@@ -24,6 +24,14 @@ export const Wrapper = styled.aside`
     button:active{
         background-color: #a9d5d9;
     }
+    .find-cart{
+        display:flex;
+        justify-content:space-between;
+    }
+    .btn-end{
+        border:none;
+        cursor: pointer;
+    }
     
     @media(max-width: 650px){
         width: 300px

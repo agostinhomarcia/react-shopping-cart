@@ -33,7 +33,12 @@ const Cart: React.FC<Props> = ({cartItems, addToCart, removeFromCart}) =>{
                 
                 />
             ))}
-            <h2 className='info-cart'>Total: R${calculateTotal(cartItems).toFixed(2)}</h2>
+            <div className='find-cart'>
+
+            <h2 className='info-cart'>Total: R${calculateTotal(cartItems).toFixed(2)}</h2> 
+            <button className='btn-end'>Finalizar Compra</button>
+            </div>
+            
             
         </Wrapper>
     )
